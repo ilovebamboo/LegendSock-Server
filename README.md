@@ -1,5 +1,4 @@
 
-![](https://github.com/ilovebamboo/WHMCS-Legendsocks-plugin/blob/Legendsocks/QQ20180702-174013.png)
 
 # 定制各类客户端 5500 
 
